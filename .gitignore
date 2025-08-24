@@ -1,0 +1,41 @@
+client
+env.example
+
+# Node modules - dependencies installed by npm
+node_modules
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables file (contains secrets or config)
+.env
+
+# Optional npm cache directory
+.npm/
+
+# Build output or coverage reports
+dist/
+build/
+coverage/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Optional lock files
+package-lock.json
+yarn.lock
