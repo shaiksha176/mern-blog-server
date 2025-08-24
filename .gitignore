@@ -1,5 +1,6 @@
 client
 env.example
+README.md
 
 # Node modules - dependencies installed by npm
 node_modules
@@ -39,3 +40,6 @@ Thumbs.db
 # Optional lock files
 package-lock.json
 yarn.lock
+
+
+
